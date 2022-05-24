@@ -1,0 +1,16 @@
+C:\Users\lukes\csharp\classes-exercise\bin\Debug\net5.0\classes-exercise.exe
+C:\Users\lukes\csharp\classes-exercise\bin\Debug\net5.0\classes-exercise.deps.json
+C:\Users\lukes\csharp\classes-exercise\bin\Debug\net5.0\classes-exercise.runtimeconfig.json
+C:\Users\lukes\csharp\classes-exercise\bin\Debug\net5.0\classes-exercise.runtimeconfig.dev.json
+C:\Users\lukes\csharp\classes-exercise\bin\Debug\net5.0\classes-exercise.dll
+C:\Users\lukes\csharp\classes-exercise\bin\Debug\net5.0\ref\classes-exercise.dll
+C:\Users\lukes\csharp\classes-exercise\bin\Debug\net5.0\classes-exercise.pdb
+C:\Users\lukes\csharp\classes-exercise\obj\Debug\net5.0\classes-exercise.csproj.AssemblyReference.cache
+C:\Users\lukes\csharp\classes-exercise\obj\Debug\net5.0\classes-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukes\csharp\classes-exercise\obj\Debug\net5.0\classes-exercise.AssemblyInfoInputs.cache
+C:\Users\lukes\csharp\classes-exercise\obj\Debug\net5.0\classes-exercise.AssemblyInfo.cs
+C:\Users\lukes\csharp\classes-exercise\obj\Debug\net5.0\classes-exercise.csproj.CoreCompileInputs.cache
+C:\Users\lukes\csharp\classes-exercise\obj\Debug\net5.0\classes-exercise.dll
+C:\Users\lukes\csharp\classes-exercise\obj\Debug\net5.0\ref\classes-exercise.dll
+C:\Users\lukes\csharp\classes-exercise\obj\Debug\net5.0\classes-exercise.pdb
+C:\Users\lukes\csharp\classes-exercise\obj\Debug\net5.0\classes-exercise.genruntimeconfig.cache
